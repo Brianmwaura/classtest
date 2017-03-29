@@ -1,0 +1,81 @@
+body{
+ font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+ font-size: 15px;
+ font-weight: normal;
+ line-height: 1.5;}
+ 
+
+h3{
+padding-left:30px;
+}
+
+ .jaypy{
+ border:ridge;
+ background-color:#000000;}
+ .brian{
+ border:ridge;
+ background-color:#000000;}
+ .ammon{
+ border:ridge;
+ background-color:#000000;}
+.kev{font-family:Georgia, "Times New Roman", Times, serif;
+float:right;
+}
+.bony{
+padding-left:30px;
+background:#FFFFFF;
+}
+.address{border:ridge;
+opacity:0.8;
+color:#FFFFFF;}
+
+.mercy{
+border:ridge;
+color:#FFFFFF;
+opacity:0.8;
+padding-top:20px;
+padding-bottom:20px;
+}
+h3{background-color:#000000;
+color:#FFFFFF;}
+
+
+.row{
+padding-left:50px;
+padding-right:50px;
+ background:#000000;
+
+
+}
+.form-group{
+
+padding-left:50px;
+padding-right:50px;
+padding-bottom:25px;}
+.btn{
+
+margin-left:25px;}
+
+
+
+
+#contacts{}
+
+#contacts ul{display:table; width:100%; height:100%; border:none;}
+#contacts ul li{display:table-cell; width:33%; height:100%; padding:5% 2%; border:solid; border-collapse:collapse; border-width:0 1px 0 0;}
+#contacts ul li:last-child{border:0;}
+#contacts ul li *{margin:0; padding:0; line-height:normal;}
+#contacts ul li div{position:relative; padding-left:65px; word-wrap:break-word;}
+#contacts ul li div i{display:block; position:absolute; top:-2px; left:0; width:50px; font-size:46px; line-height:1;}
+#contacts ul li div .heading{font-size:1.2rem;}
+
+
+#contacts{opacity:0.8;color:#FFFFFF;;}
+#contacts li:hover{background:#000000;}
+#contacts ul, #contacts ul li{border-color:#000000;}
+
+#contacts ul, #contacts ul li{display:block; width:100%; height:100%;}
+	#contacts ul li{padding:25px; border-width:0 0 1px 0;}
+
+
+
